@@ -1,1 +1,2 @@
 # ws-richpresence
+# Installation
