@@ -8,7 +8,7 @@ import random
 #one api key should be enough, but if you get api exceeded errors add another one (by going on an alt and typing /api in the chat).
 
 def return_api_key():
-    API_KEY = ["df376ed6-d9eb-424c-9055-cef73e4c7134"]
+    API_KEY = ["YOUR_API_KEY_HERE"]
     return random.choice(API_KEY)
     #This just chooses a random api key
     #for each request to prevent throttling
